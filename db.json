@@ -7,6 +7,7 @@
   "qr": [
     { "version" : "X", "id": 1, "date": "2019-12-01", "loc" : "Carrefour Bouskoura", "amount" : 0, "winning" : 100 },
     { "version" : "X", "id": "data", "date": "2019-12-01", "loc" : "Carrefour Bouskoura", "amount" : 0, "winning" : 100, "image" : "https://cdn.icon-icons.com/icons2/1522/PNG/512/qrcodelinear_106236.png"},
+    { "version" : "X", "id": "4182070029e92074a6184010ee76be48ce718bfb5ca55b82efb0ec11ec11ec11ec11", "date": "2019-12-01", "loc" : "Carrefour Bouskoura", "amount" : 0, "winning" : 100, "image" : "https://cdn.icon-icons.com/icons2/1522/PNG/512/qrcodelinear_106236.png"},
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
