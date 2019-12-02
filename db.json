@@ -4,6 +4,11 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
+  "qr": [
+    { "version" : "X", "id": 1, "date": "2019-12-01", "loc" : "Carrefour Bouskoura", "amount" : 0, "winning" : 100 },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
